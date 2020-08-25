@@ -1,0 +1,98 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "name": "JS Visualizer",
+      "url": "https://ankitsaxena21.github.io/JS-Visualizer/",
+      "source": "https://github.com/ankitsaxena21/JS-Visualizer",
+      "description": "Visualised debouncing, throttling, delegation, event bubbling and many more important concepts of javascript",
+      "tags": [
+        "JavaScript",
+        "HTML"
+      ],
+      "image": "./img/projects/image1.png"
+    },
+    {
+      "id": "2",
+      "name": "Food Ordering App",
+      "url": "https://ankitsaxena21.github.io/Food-Ordering-App/",
+      "source": "https://github.com/ankitsaxena21/Food-Ordering-App",
+      "description": "A food ordering app built in vanilla javascript with features like searching, filtering, pagination, tagging, typeahead and local storage",
+      "tags": [
+        "JavaScript",
+        "HTML"
+      ],
+      "image": "https://raw.githubusercontent.com/ankitsaxena21/Food-Ordering-App/master/Screenshot_2020-05-08%20Food%20Odering%20App.png"
+    },
+    {
+      "id": "3",
+      "name": "LinkedChain",
+      "url": "https://linkedchain.herokuapp.com/",
+      "source": "https://github.com/ankitsaxena21/LinkedChain",
+      "description": "A decentralized Q/A application working on ethereum blockchain made for EthIndia online hackathon deployed on rinkeby network",
+      "tags": [
+        "Blockchain",
+        "Ethereum"
+      ],
+      "image": "./img/projects/image3.png"
+    },
+    {
+      "id": "4",
+      "name": "E-commerce site",
+      "url": "https://our-e-store.netlify.com/",
+      "source": "https://github.com/ankitsaxena21/OyeShop",
+      "description": "An e-commerce store website built using React.js and context API",
+      "tags": [
+        "React"
+      ],
+      "image": "./img/projects/image4.png"
+    },
+    {
+      "id": "5",
+      "name": "MoodBook",
+      "url": "https://moodbook-1e901.web.app/",
+      "source": "https://github.com/ankitsaxena21/MoodBook-PWA",
+      "description": "MoodBook is a progressive web app(PWA) built with vanilla javascript with features like push notification, background synchronization, offline support and much more.",
+      "tags": [
+        "PWA",
+        "JavaScript"
+      ],
+      "image": "./img/projects/image5.png"
+    },
+    {
+      "id": "6",
+      "name": "Todo List App",
+      "url": "https://ankitsaxena21.github.io/Todo-App/",
+      "source": "https://github.com/ankitsaxena21/Todo-App",
+      "description": "A Todo list app built in vanilla javascript with features like drag and drop tasks, local storage, filter tasks, edit and change tasks",
+      "tags": [
+        "JavaScript"
+      ],
+      "image": "https://raw.githubusercontent.com/ankitsaxena21/Todo-App/master/Screenshot_2020-05-06%20Todo%20App.png"
+    },
+    {
+      "id": "7",
+      "name": "EthPay",
+      "url": "https://ethpay.herokuapp.com/",
+      "source": "https://github.com/ankitsaxena21/EthPay",
+      "description": "A dapp that works on compound finance and uniswap protocol. Enable users to easily swap ether to ANK, buy cool products and use chatrooms to connect with other users",
+      "tags": [
+        "Blockchain",
+        "Ethereum"
+      ],
+      "image": "./img/projects/image6.png"
+    },
+    {
+      "id": "8",
+      "name": "APIsPanda",
+      "url": "https://ethpay.herokuapp.com/",
+      "source": "https://github.com/ankitsaxena21/APIsPanda",
+      "description": "A web app built using reddit, github, nasa and giphy apis with features like searching, filtering and setting items as favourites.",
+      "tags": [
+        "JavaScript",
+        "HTML"
+      ],
+      "image": "https://raw.githubusercontent.com/ankitsaxena21/APIsPanda/master/screenshots/Screenshot_2020-06-14%20APIsPanda.png"
+    }
+  ]
+}
