@@ -141,3 +141,7 @@ function init() {
 document.getElementById("get-cv").addEventListener('click', () => {
   location.href = "https://drive.google.com/file/d/1KSHypiPTtPBYbfInjJbGB-UOCWmII4BE/view?usp=sharing"
 })
+
+document.getElementById("get-cv2").addEventListener('click', () => {
+  location.href = "https://drive.google.com/file/d/1KSHypiPTtPBYbfInjJbGB-UOCWmII4BE/view?usp=sharing"
+})
