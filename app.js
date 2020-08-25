@@ -137,3 +137,7 @@ function init() {
   // Init TypeWriter
   new TypeWriter(txtElement, words, wait);
 }
+
+document.getElementById("get-cv").addEventListener('click', () => {
+  location.href = "https://drive.google.com/file/d/1KSHypiPTtPBYbfInjJbGB-UOCWmII4BE/view?usp=sharing"
+})
